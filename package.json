@@ -1,0 +1,23 @@
+{
+  "name": "instagram-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "watch": "nodemon ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobim890/instagram-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobim890/instagram-api/issues"
+  },
+  "homepage": "https://github.com/kobim890/instagram-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
